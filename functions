@@ -1,0 +1,5 @@
+git clone		 -- Crea un nuevo repositorio y luego jala lo que contenga ese repositorio remoto (Github)
+git push		 -- Enviar los cambios comprometidos a Github de la rama que le indiques
+git pull		 -- Jalar lo que tenga el repositorio que conaste, no crea repositorio
+git branch		 -- Crea ramas y ve las ramas existentes
+git swicth/checkout	 -- Te permite navegar entre ramas
