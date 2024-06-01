@@ -16,4 +16,8 @@ En el comando _git branch **rama**_ el argumento ***rama*** es el nombre de una 
 # _git switch_ ( alternativa: _git checkout_)
 En el comando _git switch **rama**_ el argumento ***rama*** es el nombre de la rama a la que el usuario desea cambiar.
 
+# _git merge_
+El comando _git merge_ fusiona una rama en la rama principal.
+En el comando _git merge **RamaAFucionar**_ el argumento **RamaAFuncionar** es la rama que fusionaremos en la rama principal.
+
 KATC
